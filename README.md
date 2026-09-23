@@ -1,4 +1,4 @@
-# 🌍 RIT: High-Resolution Climate Digital Twin & AI Forecasting Engine
+# 🌍 SAMPLE: High-Resolution Climate Digital Twin & AI Forecasting Engine
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![LightGBM](https://img.shields.io/badge/Model-LightGBM%20%7C%20XGBoost-orange.svg)](https://lightgbm.readthedocs.io/)
