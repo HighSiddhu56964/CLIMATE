@@ -111,7 +111,7 @@ To train or reproduce the machine learning models from scratch, obtain the offic
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/snehipatel/RIT-Digital-Twin.git
+git clone https://github.com/
 cd RIT-Digital-Twin
 ```
 
